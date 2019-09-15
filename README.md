@@ -1,2 +1,3 @@
 # hello-world2
-Just another repository
+
+Programación, modelado y animación, Videojuegos Bitches
